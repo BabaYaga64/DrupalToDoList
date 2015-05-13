@@ -1,3 +1,35 @@
+#To Do List Drupal Site
+
+##Kyle Giard-Chase and Bojana Skarich
+
+###May 13th, 2-15
+
+###Description
+
+This website uses custom content type Task and Views Module to display a to do list. The Features Module is used to recreate the feature. 
+
+###Technologies Used
+
+Browser
+Drupal 7
+
+
+###License
+
+MIT License
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 CONTENTS OF THIS FILE
 ---------------------
