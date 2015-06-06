@@ -1,29 +1,19 @@
 
 #Drupal To Do List Custom Module 
 
-##Bojana Skarich
+##Bojana Skarich &
 
-###June 5th, 2015
+###May 13th, 2015
 
 ###Description
 
-This is a portfolio website that shows my knowledge of creating and testing custom modules in Drupal. I have created a custom module called nucleotide.module that takes an input of any of the four DNA nucleotide letters, "A", "G", "T", or "C", and returns the corresponding letter for that first input. I have also created unit tests to test the logic of my program, and functional tests to test that the user interface works. This portfolio also contains an block of content that shows different nodes depending on which one is clicked, using Ajax functions to manipulate the view for each node. 
+This is a custom content type in Drupal, displayed in a block and bundled in a Drupal Feature. 
 
 ###Setup Instructions
 
 1. Download a copy of the repository from GitHub.
 2. Launch a MAMP/LAMP/WAMP server and point the server to the root directory (main project folder)
 3. Open browser and navigate to http://localhost:8888/
-
-###Attn: Diane
-
-Info for Diane:
-
-db name: portfolio
-username: bojana
-password: bojana
-
-Site maintenance account info is same as above.
 
 ###License
 
