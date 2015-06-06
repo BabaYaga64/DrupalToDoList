@@ -1,7 +1,7 @@
 
 #Drupal To Do List Custom Module 
 
-##Bojana Skarich &
+##Bojana Skarich 
 
 ###May 13th, 2015
 
